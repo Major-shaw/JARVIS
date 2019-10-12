@@ -1,5 +1,5 @@
 # JARVIS
-A simple talking assistant to carry simple tasks. Made using Python3 
+A simple talking assistant to carry simple tasks. Made using Python3.
 Things JARVIS can do:
   1. Tell the time.
   2. Weather.
